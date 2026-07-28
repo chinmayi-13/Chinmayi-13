@@ -79,10 +79,3 @@ An interactive web application focused on creating engaging visual experiences f
 ### 📈 Nifty Pattern Analyzer
 A stock market analysis tool for identifying and visualizing market trends.
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=chinmayi-13&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayi-13&theme=tokyonight&hide_border=true&layout=compact)
